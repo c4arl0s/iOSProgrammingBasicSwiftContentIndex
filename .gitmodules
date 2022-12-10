@@ -1,0 +1,66 @@
+[submodule "1aSimple_iOS_Application"]
+	path = 1aSimple_iOS_Application
+	url = git@github.com:c4arl0s/1aSimple_iOS_Application.git
+[submodule "2TheSwiftLanguage"]
+	path = 2TheSwiftLanguage
+	url = git@github.com:c4arl0s/2TheSwiftLanguage.git
+[submodule "3ViewsAndTheViewHierarchy"]
+	path = 3ViewsAndTheViewHierarchy
+	url = git@github.com:c4arl0s/3ViewsAndTheViewHierarchy.git
+[submodule "4TextInputAndDelegation"]
+	path = 4TextInputAndDelegation
+	url = git@github.com:c4arl0s/4TextInputAndDelegation.git
+[submodule "5ViewControllers"]
+	path = 5ViewControllers
+	url = git@github.com:c4arl0s/5ViewControllers.git
+[submodule "6ProgrammaticViews"]
+	path = 6ProgrammaticViews
+	url = git@github.com:c4arl0s/6ProgrammaticViews.git
+[submodule "7Localization"]
+	path = 7Localization
+	url = git@github.com:c4arl0s/7Localization.git
+[submodule "8ControllingAnimations"]
+	path = 8ControllingAnimations
+	url = git@github.com:c4arl0s/8ControllingAnimations.git
+[submodule "9Debugging"]
+	path = 9Debugging
+	url = git@github.com:c4arl0s/9Debugging.git
+[submodule "10UITableViewAndUITableViewController"]
+	path = 10UITableViewAndUITableViewController
+	url = git@github.com:c4arl0s/10UITableViewAndUITableViewController.git
+[submodule "11EditingUITableView"]
+	path = 11EditingUITableView
+	url = git@github.com:c4arl0s/11EditingUITableView.git
+[submodule "12SubclassingUITableViewCellFromXIB"]
+	path = 12SubclassingUITableViewCellFromXIB
+	url = git@github.com:c4arl0s/12SubclassingUITableViewCellFromXIB.git
+[submodule "13StackViews"]
+	path = 13StackViews
+	url = git@github.com:c4arl0s/13StackViews.git
+[submodule "14UINavigationController"]
+	path = 14UINavigationController
+	url = git@github.com:c4arl0s/14UINavigationController.git
+[submodule "15Camera"]
+	path = 15Camera
+	url = git@github.com:c4arl0s/15Camera.git
+[submodule "16SavingLoadingAndApplicationStates"]
+	path = 16SavingLoadingAndApplicationStates
+	url = git@github.com:c4arl0s/16SavingLoadingAndApplicationStates.git
+[submodule "17SizeClasses"]
+	path = 17SizeClasses
+	url = git@github.com:c4arl0s/17SizeClasses.git
+[submodule "18TouchEventsAndUIResponder"]
+	path = 18TouchEventsAndUIResponder
+	url = git@github.com:c4arl0s/18TouchEventsAndUIResponder.git
+[submodule "19UIGestureRecognizerAndUIMenuController"]
+	path = 19UIGestureRecognizerAndUIMenuController
+	url = git@github.com:c4arl0s/19UIGestureRecognizerAndUIMenuController.git
+[submodule "20WebServices_PhotoramaApp"]
+	path = 20WebServices_PhotoramaApp
+	url = git@github.com:c4arl0s/20WebServices_PhotoramaApp.git
+[submodule "21CollectionView_PhotoramaApp"]
+	path = 21CollectionView_PhotoramaApp
+	url = git@github.com:c4arl0s/21CollectionView_PhotoramaApp.git
+[submodule "22CoreData"]
+	path = 22CoreData
+	url = git@github.com:c4arl0s/22CoreData.git
